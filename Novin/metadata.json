@@ -1,0 +1,8 @@
+{
+  "name": "سامانه مدیریت اقساط نوین تک",
+  "description": "سامانه فوق لاکچری و هوشمند مدیریت اقساط، پرونده‌های مالی دانشجویان، یادآورهای خودکار و گزارش‌های تحلیلی پیشرفته",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
